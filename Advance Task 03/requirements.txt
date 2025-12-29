@@ -1,0 +1,24 @@
+# Core LangChain library
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+langchain-classic
+
+# FAISS for vector similarity search
+faiss-cpu
+faiss-gpu
+
+# HuggingFace embeddings and transformers
+sentence-transformers
+transformers
+torch
+
+# Google Gemini AI client
+google-genai
+
+# Streamlit for UI
+streamlit
+
+# Utilities
+numpy
